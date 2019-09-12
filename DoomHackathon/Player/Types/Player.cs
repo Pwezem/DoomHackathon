@@ -44,7 +44,7 @@ namespace DoomHackathon.Player
         public static string forward = "forward";
         public static string backward = "backward";
         public static string turn_left = "turn-left";
-        public static string turn_right = "turn_right";
+        public static string turn_right = "turn-right";
         public static string use = "backward";
     };
 
