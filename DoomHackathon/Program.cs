@@ -9,7 +9,7 @@ namespace DoomHackathon
 {
     class Program
     {
-        static Task Main(string[] args)
+        static void Main(string[] args)
         {
             Console.WriteLine("Weaponizing Demons, for a Brighter Tomorrow!\n");
 
