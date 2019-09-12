@@ -1,19 +1,265 @@
 ﻿[
   {
     "Name": "forward",
-    "TimeToWaitAfterExecMS": 800
+    "TimeToWaitAfterExecMS": 150
   },
   {
     "Name": "forward",
-    "TimeToWaitAfterExecMS": 800
+    "TimeToWaitAfterExecMS": 150
+  },
+  {
+    "Name": "turn-right",
+    "TimeToWaitAfterExecMS": 150
   },
   {
     "Name": "forward",
-    "TimeToWaitAfterExecMS": 800
+    "TimeToWaitAfterExecMS": 150
   },
   {
     "Name": "forward",
-    "TimeToWaitAfterExecMS": 800
+    "TimeToWaitAfterExecMS": 150
+  },
+  {
+    "Name": "forward",
+    "TimeToWaitAfterExecMS": 150
+  },
+  {
+    "Name": "forward",
+    "TimeToWaitAfterExecMS": 150
+  },
+  {
+    "Name": "turn-left",
+    "TimeToWaitAfterExecMS": 150
+  },
+  {
+    "Name": "forward",
+    "TimeToWaitAfterExecMS": 150
+  },
+  {
+    "Name": "forward",
+    "TimeToWaitAfterExecMS": 150
+  },
+  {
+    "Name": "turn-right",
+    "TimeToWaitAfterExecMS": 150
+  },
+  {
+    "Name": "turn-right",
+    "TimeToWaitAfterExecMS": 150
+  },
+  {
+    "Name": "turn-right",
+    "TimeToWaitAfterExecMS": 150
+  },
+  {
+    "Name": "turn-right",
+    "TimeToWaitAfterExecMS": 150
+  },
+  {
+    "Name": "forward",
+    "TimeToWaitAfterExecMS": 150
+  },
+  {
+    "Name": "forward",
+    "TimeToWaitAfterExecMS": 150
+  },
+  {
+    "Name": "forward",
+    "TimeToWaitAfterExecMS": 150
+  },
+  {
+    "Name": "use",
+    "TimeToWaitAfterExecMS": 150
+  },
+  {
+    "Name": "forward",
+    "TimeToWaitAfterExecMS": 150
+  },
+  {
+    "Name": "forward",
+    "TimeToWaitAfterExecMS": 150
+  },
+  {
+    "Name": "forward",
+    "TimeToWaitAfterExecMS": 150
+  },
+  {
+    "Name": "forward",
+    "TimeToWaitAfterExecMS": 150
+  },
+  {
+    "Name": "forward",
+    "TimeToWaitAfterExecMS": 150
+  },
+  {
+    "Name": "turn-right",
+    "TimeToWaitAfterExecMS": 150
+  },
+  {
+    "Name": "forward",
+    "TimeToWaitAfterExecMS": 150
+  },
+  {
+    "Name": "turn-left",
+    "TimeToWaitAfterExecMS": 150
+  },
+  {
+    "Name": "forward",
+    "TimeToWaitAfterExecMS": 150
+  },
+  {
+    "Name": "forward",
+    "TimeToWaitAfterExecMS": 150
+  },
+  {
+    "Name": "forward",
+    "TimeToWaitAfterExecMS": 150
+  },
+  {
+    "Name": "forward",
+    "TimeToWaitAfterExecMS": 150
+  },
+  {
+    "Name": "forward",
+    "TimeToWaitAfterExecMS": 150
+  },
+  {
+    "Name": "forward",
+    "TimeToWaitAfterExecMS": 150
+  },
+  {
+    "Name": "turn-right",
+    "TimeToWaitAfterExecMS": 150
+  },
+  {
+    "Name": "turn-right",
+    "TimeToWaitAfterExecMS": 150
+  },
+  {
+    "Name": "turn-right",
+    "TimeToWaitAfterExecMS": 150
+  },
+  {
+    "Name": "forward",
+    "TimeToWaitAfterExecMS": 150
+  },
+  {
+    "Name": "forward",
+    "TimeToWaitAfterExecMS": 150
+  },
+  {
+    "Name": "turn-right",
+    "TimeToWaitAfterExecMS": 250
+  },
+  {
+    "Name": "turn-right",
+    "TimeToWaitAfterExecMS": 250
+  },
+  {
+    "Name": "forward",
+    "TimeToWaitAfterExecMS": 150
+  },
+  {
+    "Name": "turn-left",
+    "TimeToWaitAfterExecMS": 150
+  },
+    {
+    "Name": "turn-left",
+    "TimeToWaitAfterExecMS": 150
+  },
+    {
+    "Name": "forward",
+    "TimeToWaitAfterExecMS": 150
+  },  {
+    "Name": "forward",
+    "TimeToWaitAfterExecMS": 150
+  },
+   {
+    "Name": "turn-right",
+    "TimeToWaitAfterExecMS": 250
+  },
+    {
+    "Name": "forward",
+    "TimeToWaitAfterExecMS": 150
+  },
+    {
+    "Name": "forward",
+    "TimeToWaitAfterExecMS": 150
+  },
+    {
+    "Name": "forward",
+    "TimeToWaitAfterExecMS": 150
   }
+  ,
+    {
+    "Name": "forward",
+    "TimeToWaitAfterExecMS": 150
+  }
+  ,
+    {
+    "Name": "forward",
+    "TimeToWaitAfterExecMS": 150
+  },
   
+    {
+    "Name": "use",
+    "TimeToWaitAfterExecMS": 150
+  },
+    {
+    "Name": "forward",
+    "TimeToWaitAfterExecMS": 150
+  }
+    ,
+	{
+    "Name": "shoot",
+    "TimeToWaitAfterExecMS": 50
+  }
+    ,
+	{
+    "Name": "shoot",
+    "TimeToWaitAfterExecMS": 50
+  }
+    ,
+	{
+    "Name": "shoot",
+    "TimeToWaitAfterExecMS": 50
+  }
+    ,
+	{
+    "Name": "shoot",
+    "TimeToWaitAfterExecMS": 50
+  },
+  {
+    "Name": "shoot",
+    "TimeToWaitAfterExecMS": 50
+  },
+  {
+    "Name": "shoot",
+    "TimeToWaitAfterExecMS": 50
+  },
+  {
+    "Name": "shoot",
+    "TimeToWaitAfterExecMS": 50
+  }
+    ,
+    {
+    "Name": "forward",
+    "TimeToWaitAfterExecMS": 150
+  },
+    {
+    "Name": "forward",
+    "TimeToWaitAfterExecMS": 150
+  },
+  {
+    "Name": "forward",
+    "TimeToWaitAfterExecMS": 150
+  },
+  {
+    "Name": "forward",
+    "TimeToWaitAfterExecMS": 150
+  },
+  {
+    "Name": "use",
+    "TimeToWaitAfterExecMS": 150
+  }
 ]
