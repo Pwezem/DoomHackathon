@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Net;
 using System.Net.Http;
 using System.Threading.Tasks;
 using DoomHackathon.Player;
@@ -38,6 +39,12 @@ namespace DoomHackathon.World
         {
             var response = await _httpClient.GetStringAsync(_endpointBase + doorEndpoint);
             return JsonConvert.DeserializeObject<List<Door>>(response);
+        }
+
+        public async Task<HttpStatusCode> OpenDoor(string doorId)
+        {
+            var response = await _httpClient.DeleteAsync(_endpointBase + doorEndpoint + "/" + doorId);
+            return response.StatusCode;
         }
     }
 }
