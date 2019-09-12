@@ -40,12 +40,12 @@ namespace DoomHackathon.Player
 
     public class Action
     {
-        public static string shoot = "shoot";
-        public static string forward = "forward";
-        public static string backward = "backward";
-        public static string turn_left = "turn-left";
-        public static string turn_right = "turn-right";
-        public static string use = "backward";
+        public const string shoot = "shoot";
+        public const string forward = "forward";
+        public const string backward = "backward";
+        public const string turn_left = "turn-left";
+        public const string turn_right = "turn-right";
+        public const string use = "use";
     };
 
     public class Player : IGameType

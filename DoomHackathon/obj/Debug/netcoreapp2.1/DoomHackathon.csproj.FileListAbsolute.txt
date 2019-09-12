@@ -1,0 +1,11 @@
+C:\Users\Tam\DoomHackathon\source\DoomHackathon\DoomHackathon\bin\Debug\netcoreapp2.1\DoomHackathon.deps.json
+C:\Users\Tam\DoomHackathon\source\DoomHackathon\DoomHackathon\bin\Debug\netcoreapp2.1\DoomHackathon.runtimeconfig.json
+C:\Users\Tam\DoomHackathon\source\DoomHackathon\DoomHackathon\bin\Debug\netcoreapp2.1\DoomHackathon.runtimeconfig.dev.json
+C:\Users\Tam\DoomHackathon\source\DoomHackathon\DoomHackathon\bin\Debug\netcoreapp2.1\DoomHackathon.dll
+C:\Users\Tam\DoomHackathon\source\DoomHackathon\DoomHackathon\bin\Debug\netcoreapp2.1\DoomHackathon.pdb
+C:\Users\Tam\DoomHackathon\source\DoomHackathon\DoomHackathon\obj\Debug\netcoreapp2.1\DoomHackathon.csprojAssemblyReference.cache
+C:\Users\Tam\DoomHackathon\source\DoomHackathon\DoomHackathon\obj\Debug\netcoreapp2.1\DoomHackathon.csproj.CoreCompileInputs.cache
+C:\Users\Tam\DoomHackathon\source\DoomHackathon\DoomHackathon\obj\Debug\netcoreapp2.1\DoomHackathon.AssemblyInfoInputs.cache
+C:\Users\Tam\DoomHackathon\source\DoomHackathon\DoomHackathon\obj\Debug\netcoreapp2.1\DoomHackathon.AssemblyInfo.cs
+C:\Users\Tam\DoomHackathon\source\DoomHackathon\DoomHackathon\obj\Debug\netcoreapp2.1\DoomHackathon.dll
+C:\Users\Tam\DoomHackathon\source\DoomHackathon\DoomHackathon\obj\Debug\netcoreapp2.1\DoomHackathon.pdb

@@ -8,13 +8,20 @@ namespace DoomHackathon
 {
     class Program
     {
+
+        private static IInputProcessor _inputProcessor;
         static void Main(string[] args)
         {
-            Console.WriteLine("Weaponizing Demons, for a Brighter Tomorrow!\n");
+            
+            _inputProcessor = new DoomInputProcessor(new DoomHttpClient());
+            
+            _inputProcessor.Start();
+            
+            /*Console.WriteLine("Weaponizing Demons, for a Brighter Tomorrow!\n");
 
             ////////////////////////
             // HTTP Client creates Endpoint Services
-            DoomHttpClient doomClient = new DoomHttpClient();
+            ;
 
 
             ////////////////////////////
@@ -61,7 +68,7 @@ namespace DoomHackathon
             // may be a problem
 
             //
-            ///////////////////////////////
+            ///////////////////////////////*/
 
         }
     }
