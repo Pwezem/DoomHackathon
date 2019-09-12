@@ -40,11 +40,14 @@ namespace DoomHackathon.Player
 
     public class Action
     {
+
         public const string shoot = "shoot";
         public const string forward = "forward";
         public const string backward = "backward";
         public const string turn_left = "turn-left";
         public const string turn_right = "turn-right";
+        public const string strafe_left = "strafe-left";
+        public const string strafe_right = "strafe-right";
         public const string use = "use";
     };
 
